@@ -20,15 +20,16 @@ body {
 
 /* font */
 body {
-  font-family: times, serif;
+  font-family: "Times New Roman", serif;
   padding: 0 3.5%;
   padding: 1.2rem;
   margin: 0 auto;
+  font-size: 1em;
 }
 
 header {
   font-family: "Times New Roman", serif;
-  !font-size: 2.5em;
+  font-size: 1em;
   font-weight: normal;
   word-spacing: -.075em;
   margin-top: 0;
@@ -49,7 +50,11 @@ a:active {
 }
 
 /* navigation */
-
+nav{
+    font-family: "Times New Roman", serif;
+  font: Times;
+  font-size: 1.3em;
+}
 /* typographic details */
   p {
     font-size: 1.3em;
@@ -58,6 +63,7 @@ a:active {
   p.byline {
     display: inline;
     font-weight: bold;
+    margin-top: 1em;
   }
 
 /* ---responsive images */
@@ -82,6 +88,7 @@ figure.hero figcaption {
   border-radius: 50%;
   vertical-align: middle;
   margin-right: 1em;
+  margin-top: .5em;
 }
 
 main,
