@@ -75,11 +75,11 @@ img {
 
 /* hero figure image */
 figure.hero {
-  margin:0 -1em;
+  margin:1em -1em;
 }
 
 figure.hero figcaption {
-  margin: 0 1em;
+  margin: .5em 1em;
 }
 
 .headshot {
