@@ -16,6 +16,7 @@ body {
   padding: 0 1em 0 1em; /* (clockwise) padding-top, padding-right, padding-bottom, padding-left */
   margin-left: auto;
   margin-right: auto;
+  background-color: #FFFFE3;
 }
 
 /* font */
@@ -38,15 +39,15 @@ header {
 
 /* links */
 a {
-  color: #0000ff;
+  color: #80C3E4;
 }
 a:hover {
-  color: #ff0000;
+  color: #487078;
 }
 a:focus,
 a:active {
-  color: #00ff00;
-  background-color: #f5f2ad;
+  color: #F4EA42;
+  background-color: ;
 }
 
 /* navigation */
