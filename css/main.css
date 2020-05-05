@@ -51,8 +51,7 @@ a:active {
 
 /* navigation */
 nav{
-    font-family: "Times New Roman", serif;
-  font: Times;
+  font-family: "Times New Roman", serif;
   font-size: 1.3em;
 }
 /* typographic details */
@@ -61,7 +60,7 @@ nav{
     line-height: 1.25; /*unitless, please */
   }
   p.byline {
-    display: inline;
+    display: inline-block;
     font-weight: bold;
     margin-top: 1em;
   }
